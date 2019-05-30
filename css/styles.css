@@ -1,0 +1,9 @@
+.theRow {
+  border: 5px solid black;
+  height: 100%;
+}
+
+.sideRows {
+  height: 30px;
+
+}
